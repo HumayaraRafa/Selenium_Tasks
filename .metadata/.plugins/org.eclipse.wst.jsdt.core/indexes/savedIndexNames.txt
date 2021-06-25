@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\Users\Asus\OneDrive\Desktop\Automation_Task\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+448694441.index
+492959220.index
+1905243716.index
+3593411723.index
+1876449613.index
+2508390960.index

@@ -1,0 +1,10 @@
+Task Two:
+1. Create a class named "TaskTwo" inside src/test/java
+2. Use the webdriverManager denpendency.
+3. Visit the given URL: https://katalon-demo-cura.herokuapp.com/ in chrome browser or Firefox browser.
+4. Click on the "Make Appointment" button.
+5. Fill up the username, password input box
+	Username: John Doe
+	Password: ThisIsNotAPassword
+6. Click on the "Login" button.
+7. Quit the browser.

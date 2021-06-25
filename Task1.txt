@@ -1,0 +1,11 @@
+
+Task:
+1. Create a class named "TaskOne" inside src/test/java
+
+2. Use the webdriverManager denpendency.
+
+3. Visit the given URL: http://automationpractice.com/index.php in chrome browser or Firefox browser.
+
+4. Capture the current URL & page title of the URL.
+
+5. Go to this URL: https://www.nexchar.com/ using navigate method & refresh the page after 5 Sec.
